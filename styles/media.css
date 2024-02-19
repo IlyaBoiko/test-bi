@@ -1,0 +1,160 @@
+@media(max-width: 1250px) {
+    .elippse_1 img {
+        width: 725px;
+        height: 473px;
+    }
+    .elippse_1 {
+        top: 395px;
+        right: 0px;
+    }
+    .elippse_2 img {
+        width: 692px;
+        height: 619px;
+    }
+    .elippse_2 {
+        top: 1000px;
+        left: 0;
+    }
+    .elippse_3 img {
+        max-width: 1200px;
+    }
+    .elippse_3 {
+        top: 1775px;
+        left: 0;
+    }
+    .elippse_4  {
+        display: none;
+    }
+    .elippse_5 {
+        display: none;
+    }
+}
+
+@media(max-width: 991px) {
+    .footer_lists {
+        gap: 60px;
+    }
+    .footer_list_about {
+        margin-right: 0!important;
+    }
+    .prefooter_title {
+        margin-bottom: 38px;
+    }
+    .prefooter_text {
+        margin-bottom: 70px;
+    }
+    .prefooter {
+        padding: 90px 0 60px;
+    }
+    .prefooter_wrapper {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .form {
+        padding: 56px 74px 46px;
+    }
+    .container {
+        padding: 0 40px;
+    }
+    .hero {
+        background: none;
+    }
+    
+    .main_inner {
+        flex-direction: column;
+        align-items: center;
+        margin: 0 auto;
+        gap: 100px;
+    }
+    .card.first {
+        margin-top: 0;
+    }
+    .card.second {
+        margin-bottom: 0;
+    }
+}
+@media(max-width: 767px) {
+    .copyright {
+        font-size: 16px;
+        margin-top: 44px;
+    }
+    .footer {
+        padding: 46px 0 34px;
+    }
+    .footer_lists {
+        gap: 36px;
+        flex-direction: column;
+    }
+    .prefooter_text {
+        margin-bottom: 50px;
+    }
+    .prefooter_title {
+        max-width: 300px;
+    }
+    .prefooter {
+        padding: 90px 0 52px;
+    }
+    .form {
+        padding: 56px 45px 43px 46px;
+        margin: 96px auto 140px;
+    }
+    .custom-checkbox+label {
+        align-items: start;
+    }
+    .btn_submit {
+        padding: 13px 50px;
+    }
+    .elippse_1 {
+        top: 272px;
+        right: -80px;
+        transform: rotate(7deg);
+    }
+    .elippse_1 img {
+        width: 550px;
+        max-width: 550px;
+        height: 463px;
+    }
+    .elippse_2 {
+        top: 840px;
+        left: -150px;
+        transform: rotate(-7deg);
+    }
+    .elippse_2 img {
+        width: 692px;
+        height: 469px;
+        max-width: 692px;
+    }
+    .elippse_3 img {
+        max-width: 750px;
+        width: 750px;
+        height: 420px;
+    }
+    .card.third {
+        padding: 24px 18px;
+    }
+    .elippse_3 {
+        top: 1600px;
+        left: -238px;
+    }
+    .main_title {
+        font-size: 36px;
+    }
+    .main{ 
+        margin-top: 76px;
+        overflow-y: hidden;
+    }
+    .main_inner {
+        gap: 64px;
+    }
+    .nav {
+        margin-bottom: 52px;
+    }
+    .container {
+        padding: 0 15px;
+    }
+    .hero_title {
+        font-size: 48px;
+        max-width: 240px;
+        margin-bottom: 55px;
+    }
+}
